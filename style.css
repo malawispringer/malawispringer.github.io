@@ -1,8 +1,16 @@
 h1 {
     font-size: larger;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color:blueviolet; 
+    color:#ffffff; 
 }
 body {
     background-color: black;
+    text-align: center;
 }
+p {
+    color:red; 
+}
+h4 {
+    color:#ffffff;
+}
+
